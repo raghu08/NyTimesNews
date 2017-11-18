@@ -1,6 +1,12 @@
 The application is called TrivagoNyTimes which demonstrates using Nytimes api to show most viewed articles and
 to search for articles.
 
+
+Improvements to be made to the app in the next version:
+1.Use Dagger 2.0
+2.Use RxJava
+
+
 The app has two screens.
 1.MostViewed - which displays most viewed articles
 2.Article Search Screen - which triggers search when user enters search keywords and also loading of articles
