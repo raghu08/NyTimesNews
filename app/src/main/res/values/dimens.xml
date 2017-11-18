@@ -1,0 +1,8 @@
+<resources>
+    <dimen name="padding_10">10dp</dimen>
+    <dimen name="margin_8">8dp</dimen>
+    <dimen name="margin_4">4dp</dimen>
+    <dimen name="size_100">100dp</dimen>
+    <dimen name="tv_18">18sp</dimen>
+    <dimen name="tv_14">14sp</dimen>
+</resources>

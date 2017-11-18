@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TrivagoNyTimes</string>
+    <string name="action_search">Search</string>
+    <string name="article_search">Article Search</string>
+    <string name="most_viewed">Most Viewed</string>
+    <string name="failure_message">Unable to fetch articles.It might be a network problem.</string>
+    <string name="search_message">Please click on search icon to start searching for articles.</string>
+</resources>
