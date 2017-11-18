@@ -1,4 +1,5 @@
-The application is called TrivagoNyTimes
+The application is called TrivagoNyTimes which demonstrates using Nytimes api to show most viewed articles and
+to search for articles.
 
 The app has two screens.
 1.MostViewed - which displays most viewed articles
